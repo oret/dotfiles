@@ -1,2 +1,8 @@
 dotfiles
 ========
+
+## init
+
+```
+dotfilesLink.sh
+```
